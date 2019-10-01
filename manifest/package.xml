@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>KombuchaTracker</members>
+		<name>CustomApplication</name>
+	</types>
+	<types>
+		<members>Batch__c</members>
+		<members>TeaBlend__c</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>CustomTab</name>
+	</types>
+	<types>
+		<members>Batch__c-Batch Layout</members>
+		<members>TeaBlend__c-Tea Blend Layout</members>
+		<name>Layout</name>
+	</types>
+	<version>46.0</version>
+</Package>

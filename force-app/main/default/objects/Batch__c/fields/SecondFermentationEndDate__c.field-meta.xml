@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SecondFermentationEndDate__c</fullName>
+    <description>Date when the second fermentation should be complete.</description>
+    <externalId>false</externalId>
+    <formula>SecondFermentationStartDate__c + 4</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <inlineHelpText>Date when the second fermentation should complete.</inlineHelpText>
+    <label>Second Fermentation End Date</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Date</type>
+</CustomField>

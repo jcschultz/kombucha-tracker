@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SecondFermentationStartDate__c</fullName>
+    <description>Date when the batch was bottled to start the second fermentation.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Date when the batch was bottled to start the second fermentation.</inlineHelpText>
+    <label>Second Fermentation Start Date</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Date</type>
+</CustomField>
