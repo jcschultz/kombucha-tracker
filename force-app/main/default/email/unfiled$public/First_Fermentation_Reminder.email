@@ -1,0 +1,3 @@
+Hi {!Batch__c.OwnerFirstName},
+
+The first fermentation of batch #{Batch__c.Name} is complete. Time to bottle it up for the second fermentation!
