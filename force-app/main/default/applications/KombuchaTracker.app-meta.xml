@@ -14,5 +14,4 @@
     <tabs>Batch__c</tabs>
     <tabs>TeaBlend__c</tabs>
     <uiType>Lightning</uiType>
-    <utilityBar>Kombucha_Tracker_UtilityBar</utilityBar>
 </CustomApplication>
